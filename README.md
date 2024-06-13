@@ -1,5 +1,5 @@
 # Introduction
-This is just a skelly code which requires to be constructed in many ways, I believe there is no singular way to code, but there are also codes that are deeply thought about how it will be delivered. 
+This is just a skelly code which requires to be constructed and can be done in many ways, I believe there is no singular way to code, but there are also codes that are deeply thought about how it will be delivered. 
 
 So, these project are meant to be show a little bit of how you handle your work, which is more crucial from your perspective given by other rules that apply.
 
